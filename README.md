@@ -36,11 +36,6 @@ This project implements a **Linear Regression model** using scikit-learn to pred
 - `matplotlib`
 - `seaborn`
 
-## 🚀 Lessons Learned
-- Importance of **feature scaling** and **selection** in regression performance.
-- How to apply **K-Fold Cross Validation** to test model generalization.
-- Experience with regression visualization and data preprocessing pipelines.
-
 ---
 
 ### 🔗 Link
